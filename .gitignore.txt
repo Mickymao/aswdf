@@ -1,0 +1,1 @@
+# Ignora todos los ficheros acabados en .docx
